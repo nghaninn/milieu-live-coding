@@ -26,3 +26,7 @@ node base.js -testForDraw 1
 
 # Draw Case
 [![draw-case.png](https://github.com/nghaninn/milieu-live-coding/blob/main/image/draw-case.png)](https://github.com/nghaninn/milieu-live-coding/blob/main/image/draw-case.png)  
+
+
+# Time spend
+[![time-taken.png](https://github.com/nghaninn/milieu-live-coding/blob/main/image/time-taken.png)](https://github.com/nghaninn/milieu-live-coding/blob/main/image/time-taken.png)  
